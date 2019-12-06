@@ -1,15 +1,17 @@
 {
   "docs": {
-    "Introduction": [
-      "introduction"
-    ],
     "Test Scope": [
+      "introduction",
+      "requirements",
+      "traceability-matrix"
     ],
     "Test Plan": [
-    ],
-    "Test Procedure for Build": [
-    ],
-    "Validation Tests": [
+      "plan",
+      "phase-1",
+      "phase-2",
+      "phase-3",
+      "validation-tests",
+      "conclusion"
     ]
   }
 }
