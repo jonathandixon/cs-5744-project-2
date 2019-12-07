@@ -12,7 +12,7 @@ const siteConfig = {
   title: 'CS 5744 - Project 2 - Test Plan for Hypnos Sleep',
   tagline: 'A website for testing',
   url: '',
-  baseUrl: '/',
+  baseUrl: '../../',
   projectName: '',
   organizationName: '',
 
