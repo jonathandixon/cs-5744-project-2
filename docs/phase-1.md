@@ -22,4 +22,4 @@ The purpose of this phase is to test the behavior of the database and various sy
 
 ## Additional Software
 
-No additional overhead software will be needed for this phase.
+An important component of the sensor data hub module is its ability to process data from external sensors. It may prove useful to either mock third-party sensor data or provide a tool that can generate data based on specs from multiple third-party sleep sensors.
